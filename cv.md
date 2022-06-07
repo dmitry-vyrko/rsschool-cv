@@ -1,4 +1,4 @@
-# Dmitry Vyrko
+## Dmitry Vyrko
 
 *Male, 27 years, born om 11 January 1995*
 
@@ -17,5 +17,5 @@ Languages:
    - *Polish - B1*
 
 Skills:
-   - _Social Media Marketing_
-   - _targeted advertising_
+   - __Social Media Marketing__
+   - __targeted advertising__
